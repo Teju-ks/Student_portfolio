@@ -25,12 +25,14 @@ body {
 }
 
 .profile-header {
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIfsUMIoWC2YXCxzPpKVsQxgK57Bzi_eKEzw&s") ;
     color: white;
     text-align: center;
     padding: 2rem;
+    background-repeat: no-repeat;
+     background-size: cover;
+    
 }
-
 .profile-img {
     width: 150px;
     height: 150px;
